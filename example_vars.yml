@@ -1,0 +1,14 @@
+---
+vcenter_hostname: 
+vcenter_username: 
+vcenter_password: 
+datacenter_name: 
+template_name: 
+datastore_name:
+folder_name: 
+cluster_name: 
+networks_name: 
+networks_ip: 
+dns1: 
+dns2: 
+guest_domain: 
