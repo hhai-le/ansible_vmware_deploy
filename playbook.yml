@@ -1,0 +1,7 @@
+---
+- hosts: all
+  tasks:
+  - name: vmware_deploy
+    include_role:
+      name: ../vmware_deploy
+
